@@ -1,4 +1,5 @@
 SIMPLE SHELL
+
      Date:22-2021-10
      ALX- school
 
@@ -18,7 +19,7 @@ simple_shell is designed to run in the Ubuntu linux environment and to be compil
 
 Installation
 
-clone this repostory https://github.com/kalkidan999/simple_shell.git
+clone this repostory https://github.com/brianbryank/simple_shell.git
 Change directories into the repository: acd simple_shell
 Compile: gcc -Wall -Werror -Wextra -pedantic *.c -o hsh
 Run the shell: ./hsh
