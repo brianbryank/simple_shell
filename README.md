@@ -12,9 +12,13 @@ FILES
 project is created with:
 
 File1:
+
 File 2:
+
 File 2:
+
 Requirments
+
 simple_shell is designed to run in the Ubuntu linux environment and to be compiled using the GNU compiler collection v. gcc 4.8.4 with flags -Wall, -Werror, -Wextra, and -pedantic.
 
 Installation
@@ -47,6 +51,7 @@ $ ./hsh
 $ ls
 
 List of functions and system calls we are allowed to use:
+
 access (man 2 access)
 chdir (man 2 chdir)
 close (man 2 close)
@@ -77,5 +82,7 @@ write (man 2 write)
 _exit (man 2 _exit)
 
 Authors
+
 Brian Kiplangat-brianbyank
+
 Joy Wanjiru-joy879
