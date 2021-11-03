@@ -83,6 +83,6 @@ _exit (man 2 _exit)
 
 # Authors
 
-*Brian Kiplangat-brianbyank
+Brian Kiplangat-brianbyank
 
-*Joy Wanjiru-joy879
+Joy Wanjiru-joy879
