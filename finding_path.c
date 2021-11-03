@@ -1,4 +1,4 @@
-#include "shell.c"
+#include "shell.h"
 /**
  * path_cmd -  Search In $PATH For Excutable Command
  * @cmd: Parsed Input
