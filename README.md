@@ -1,13 +1,13 @@
-SIMPLE SHELL
+# SIMPLE SHELL
 
      Date:22-2021-10
      ALX- school
 
-Description
+# Description
 
 Shell is an environment in which we can run our commands, programs, and shell scripts.There are different flavors of a shell, just as there are different flavors of operating systems.Each flavor of shell has its own set of recognized commands and functions.
 
-FILES
+# FILES
 
 project is created with:
 
@@ -17,17 +17,17 @@ File 2:
 
 File 2:
 
-Requirments
+# Requirments
 
 simple_shell is designed to run in the Ubuntu linux environment and to be compiled using the GNU compiler collection v. gcc 4.8.4 with flags -Wall, -Werror, -Wextra, and -pedantic.
 
-Installation
+# Installation
 
-clone this repostory https://github.com/brianbryank/simple_shell.git
+clone this repostory *https://github.com/brianbryank/simple_shell.git
 Change directories into the repository: acd simple_shell
 Compile: gcc -Wall -Werror -Wextra -pedantic *.c -o hsh
 Run the shell: ./hsh
-Example
+   # Example
 1.
 $ ./hsh
 $ pwd
@@ -50,7 +50,7 @@ run the program by executing the follwing command
 $ ./hsh
 $ ls
 
-List of functions and system calls we are allowed to use:
+# List of functions and system calls we are allowed to use:
 
 access (man 2 access)
 chdir (man 2 chdir)
@@ -81,8 +81,8 @@ wait4 (man 2 wait4)
 write (man 2 write)
 _exit (man 2 _exit)
 
-Authors
+# Authors
 
-Brian Kiplangat-brianbyank
+*Brian Kiplangat-brianbyank
 
-Joy Wanjiru-joy879
+*Joy Wanjiru-joy879
