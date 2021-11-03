@@ -1,4 +1,4 @@
-#include "shell.c"
+#include "shell.h"
 /**
  * print_number -Print Unsigned Int Putchar
  * @n: Unisigned Integer
