@@ -1,5 +1,5 @@
-#ifndef _SHELL_C_
-#define _SHELL_C_
+#ifndef _SHELL_H_
+#define _SHELL_H_
 
 /**###### environ var ######*/
 
