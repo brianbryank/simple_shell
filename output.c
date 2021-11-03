@@ -1,5 +1,4 @@
-
-#include "shell.c"
+#include "shell.h"
 /**
  *  _prerror - Print Custome Error
  * @argv:Program Name
@@ -12,7 +11,7 @@ void _prerror(char **argv, int c, char **cmd)
 	char *er = _itoa(c);
 
 	PRINTER(argv[0]);
-	PRINTER(": ");
+	PRINTER(" : ");
 	PRINTER(er);
 	PRINTER(": ");
 	PRINTER(cmd[0]);
