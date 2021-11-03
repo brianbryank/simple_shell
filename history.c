@@ -1,4 +1,4 @@
-#include "shell.c"
+#include "shell.h"
 
 /**
  * history_dis - Display History Of User Input Simple Shell
